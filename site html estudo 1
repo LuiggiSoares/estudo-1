@@ -1,0 +1,90 @@
+<html>
+
+      <head>
+  
+            <title>Felicidade</title>
+
+      </head>
+
+      <body>
+
+            <img src="transferir.jfif" width="500" align="right">
+
+            <p><h1>Felicidade</h1></p>
+
+            <p><h4>Voce se considera feliz?</h4></p>
+
+            <p>Sim<input type="radio" name="feliz?"></p>
+
+            <p>Não<input type="radio" name="feliz?"></p>
+
+            <p>click abaixo independentemente da resposta.</p>
+
+            <a href="https://www.youtube.com/watch?v=LMD6MqwErzc"><input type="submit" value=":)"></a>
+
+            <p><h1>Agora fique com alguns fatos sobre a felicidade</h1></p>  
+            
+            <hr>
+
+            <h3>A felicidade é um estado durável de plenitude, satisfação e equilíbrio físico e psíquico, em que o sofrimento e a inquietude são transformados em emoções ou sentimentos que vão desde o contentamento até a alegria intensa ou júbilo. A felicidade tem, ainda, o significado de bem-estar espiritual ou paz interior.</h3>
+
+            <h2>Achou que era tudo??</h2>
+
+            <h3>Portanto, a neurociência acredita que a felicidade não é algo abstrato, mas sim um estado físico. Tudo isso vem dos neurotransmissores que são ativados no corpo humano a partir de ações ou eventos. Também chamado de “Quarteto da Felicidade”, estes neurotransmissores são: endorfina, serotonina, dopamina e ocitocina.</h3>
+
+            <hr>
+
+            <p>agora me digam mais como vc se sente...</p>
+
+            <input type="text" placeholder="Escreva aqui">
+
+            <hr>
+
+            <p>Escute para ficar mais calmo...</p>
+
+            <audio controls>
+
+                  <source src="calmo.wav" type="audio/mp3">
+
+            </audio>
+
+            <hr>
+
+            <h2>As vezes devemos abrir os olhos no escuro e ver o tanto que a vida é brilhante..</h2>
+
+            <video controls width="1000">
+
+
+                  <source src="feliz.mp4" type="video/mp4">
+
+
+            </video>
+
+            <p>aprecie tudo que tem dentro da vida afinal se exite sombra de um lado, o outro esta iluminado.</p>
+
+            <hr>
+
+            <h1>Bom aki vai algumas dicas!!!</h1>
+
+            <ul>
+
+                  <li>Foque em pensamentos positivos. ...</li>
+                  <li>Cuide de si mesmo. ...</li>
+                  <li>Pratique meditação. ...</li>
+                  <li>Seja grato. ...</li>
+                  <li>Ajude outras pessoas. ...</li>
+                  <li>Explore o propósito da sua vida. ...</li>
+                  <li>Cultive relacionamentos saudáveis. ...</li>
+                  <li>Faça terapia.</li>
+
+            </ul>
+
+            <hr>
+
+            <h1>Acho que isso é tudo!!</h1>
+
+            <p><a href="https://eusinto.me/procurar-ajuda/servico-de-aconselhamento-psicologico-da-linha-sns24/"><p>Caso precise de mais ajuda click aqui....</p></a></p>
+
+      </body>
+
+</html>
